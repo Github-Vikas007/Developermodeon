@@ -1,0 +1,19 @@
+html {
+  background-color: teal;
+  font-size: 10pt;
+}
+h2 {
+  background-color: teal;
+  font-size: 1rem;
+  color: beige;
+}
+h3 {
+  color: brown;
+  font-style: italic;
+}
+ol{color: coral;}
+.red {
+  color: blue;
+}
+#new{color: darkgreen;}
+*{color: blue;}
